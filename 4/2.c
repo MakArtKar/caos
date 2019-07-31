@@ -1,4 +1,3 @@
-// uint fit
 #include <stdio.h>
 #include <inttypes.h>
 
@@ -7,6 +6,7 @@ const int ORDER = 9;
 
 int canBeFloat(uint32_t input) {
     int i = 0;
+    
     while (input % 2 == 0 && ++i < ORDER)
         input >>= 1;
 

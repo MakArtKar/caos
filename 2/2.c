@@ -1,5 +1,3 @@
-// mul table
-
 #include <stdio.h>
 #include <ctype.h>
 
@@ -12,9 +10,8 @@ int main() {
 
     printf("%*c", n, ' ');
 
-    for (int i = a; i < b; ++i) {
+    for (int i = a; i < b; ++i)
         printf(" %*d", n, i);
-    }
 
     printf("\n");
 
@@ -22,12 +19,10 @@ int main() {
         printf("%*d", n, i);
 
         for (int j = a; j < b; ++j) {
-            long int res =(long) i * j;
+            long res = (long) i * j;
             printf(" %*ld", n, res);
         }
 
         printf("\n");
     }
-
-    return 0;
 }

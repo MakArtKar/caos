@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-// In fact, const or static const doesn't mean constsness,
+// In fact, const or static const doesn't mean constness,
 // as well as using macros, so only enum values here are allowed
 enum { SIZE = 3, COUNT = 1000000 };
 

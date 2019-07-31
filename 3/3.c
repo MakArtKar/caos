@@ -1,5 +1,3 @@
-//bitcount-2
-
 int bitcount(STYPE value) {
     int res = 0;
 

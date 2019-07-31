@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/caos.dir/14/5.c.o  -o caos 

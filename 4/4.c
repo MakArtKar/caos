@@ -10,7 +10,7 @@ uint32_t fixed_mul(uint32_t a, uint32_t b, int n) {
     if (n > 0) {
         if ((product & (~((~0LLU) << n))) > ((1LLU << n) >> 1))
             bit = 1;
-        else if ((product & (~((~0LLU) << n)))  == ((1LLU << n) >> 1) && product & (1LLU << n))
+        else if ((product & (~((~0LLU) << n))) == ((1LLU << n) >> 1) && product & (1LLU << n))
             bit = 1;
     }
 

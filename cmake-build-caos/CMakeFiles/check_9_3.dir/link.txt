@@ -1,1 +1,0 @@
-/usr/bin/cc -fsanitize=address   CMakeFiles/check_9_3.dir/0_checks/9/3.c.o  -o check_9_3 -ldl -lm -lpthread 

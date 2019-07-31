@@ -1,4 +1,0 @@
-/home/myrrec/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/myrrec/cloud/hse/2/caos
--- Configuring done
--- Generating done
--- Build files have been written to: /home/myrrec/cloud/hse/2/caos/cmake-build-debug

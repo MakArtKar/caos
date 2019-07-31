@@ -1,3 +1,0 @@
-/home/myrrec/cloud/hse/2/caos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/myrrec/cloud/hse/2/caos/cmake-build-debug/CMakeFiles/caos.dir
-/home/myrrec/cloud/hse/2/caos/cmake-build-debug/CMakeFiles/edit_cache.dir

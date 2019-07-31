@@ -1,4 +1,3 @@
-// betole
 #include <stdio.h>
 #include <inttypes.h>
 
@@ -11,9 +10,8 @@ int main() {
     while (scanf("%x", &input) != EOF) {
         ++i;
 
-        if (!(i % 17)) {
+        if (!(i % 17))
             continue;
-        }
 
         ++j;
 

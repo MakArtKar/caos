@@ -2,8 +2,6 @@
 #include <thread>
 #include <vector>
 
-// In fact, const or static const doesn't mean constsness,
-// as well as using macros, so only enum values here are allowed
 enum { SIZE = 3, COUNT = 1000000 };
 
 double result[SIZE];

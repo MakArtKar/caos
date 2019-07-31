@@ -11,7 +11,7 @@ int main() {
     int upper = 0;
 
     wchar_t c;
-    //
+    
     while ((c = fgetwc(stdin)) != EOF) {
         digits += iswdigit(c);
         lower += iswlower(c);

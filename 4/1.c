@@ -1,4 +1,3 @@
-// float split
 #include <stdio.h>
 
 enum { SIGN = 1, EXP = 8, MANT = 23 };

@@ -1,1 +1,0 @@
-/usr/bin/cc -ldl -pthread   CMakeFiles/caos.dir/23/1.c.o CMakeFiles/caos.dir/23/2.c.o  -o caos 

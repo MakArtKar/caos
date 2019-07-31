@@ -1,1 +1,0 @@
-/usr/bin/cc -fsanitize=address   CMakeFiles/contest_23_4.dir/23/4.c.o  -o contest_23_4 -ldl -lm -lpthread 

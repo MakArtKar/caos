@@ -1,5 +1,3 @@
-// max prod
-
 #include <stdio.h>
 
 int main() {
@@ -25,6 +23,4 @@ int main() {
     }
 
     printf("%d\n", max1 * max2);
-
-    return 0;
 }

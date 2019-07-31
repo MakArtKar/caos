@@ -8,6 +8,7 @@ typedef union
 
 FPClass fpclassf(float value, int *sign) {
     Float _value;
+    
     _value.as_float = value;
 
     uint32_t exp = (_value.as_int >> 23) & 0xFF;
