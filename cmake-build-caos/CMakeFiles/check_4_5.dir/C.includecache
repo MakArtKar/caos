@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/myrrec/cloud/hse/2/caos/0_checks/4/5.c
+unistd.h
+-
+sys/types.h
+-
+asm/unistd_32.h
+-
+

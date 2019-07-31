@@ -1,0 +1,4 @@
+/home/myrrec/cloud/hse/2/caos/cmake-build-caos/CMakeFiles/rebuild_cache.dir
+/home/myrrec/cloud/hse/2/caos/cmake-build-caos/CMakeFiles/edit_cache.dir
+/home/myrrec/cloud/hse/2/caos/cmake-build-caos/CMakeFiles/contest_23_4.dir
+/home/myrrec/cloud/hse/2/caos/cmake-build-caos/CMakeFiles/check_9_3.dir

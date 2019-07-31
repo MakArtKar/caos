@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address   CMakeFiles/check_4_5.dir/0_checks/4/5.c.o  -o check_4_5 -ldl -lm -lpthread 

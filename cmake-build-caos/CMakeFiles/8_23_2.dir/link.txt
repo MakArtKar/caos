@@ -1,0 +1,1 @@
+/usr/bin/cc -ldl -pthread   CMakeFiles/8_23_2.dir/23/2.c.o  -o 8_23_2 

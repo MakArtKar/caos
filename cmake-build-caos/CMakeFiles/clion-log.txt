@@ -1,0 +1,4 @@
+/home/myrrec/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.6183.77/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/myrrec/cloud/hse/2/caos
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/myrrec/cloud/hse/2/caos/cmake-build-caos

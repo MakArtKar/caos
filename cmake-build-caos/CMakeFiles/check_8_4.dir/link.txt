@@ -1,0 +1,1 @@
+/usr/bin/cc -m32   CMakeFiles/check_8_4.dir/0_checks/8/4.c.o  -o check_8_4 -ldl -lm -lpthread 

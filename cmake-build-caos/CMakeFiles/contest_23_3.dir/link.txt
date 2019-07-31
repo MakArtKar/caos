@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/contest_23_3.dir/23/3.c.o  -o contest_23_3 -ldl -lm -lpthread 
